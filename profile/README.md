@@ -19,7 +19,9 @@
 <br/><br/>
 
 [![Website](https://img.shields.io/badge/grandouagency.com-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.grandouagency.com)
-[![Email](https://img.shields.io/badge/grandouagency@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:grandouagency@gmail.com)
+[![Email](https://img.shields.io/badge/grandouagency@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:grandouagency@gmail.com) <br>
+![Profile Views](https://komarev.com/ghpvc/?username=grandouagency-cloud&color=00d4ff&style=for-the-badge&label=PROFILE+VIEWS)
+[![GitHub followers](https://img.shields.io/github/followers/grandouagency-cloud?style=for-the-badge&color=00d4ff&labelColor=0d1117&label=FOLLOWERS)](https://github.com/grandouagency-cloud)
 
 <br/>
 
